@@ -1,7 +1,7 @@
 {
 	"title": "SCP-173 Pill Pack",
 	"type": "ServerContent",
-	"description": "Become SCP-173 from the SCP Foundation. Movement-based statue gameplay: he's slow while being watched, builds up speed in a straight line, and has a Speed Rush ability. Requires Parakeet's Pill Pack.",
+	"description": "precisa ter parakeet pill pack ou o enhanced",
 	"ignore": [
 		"*.psd",
 		"*.vmx",
